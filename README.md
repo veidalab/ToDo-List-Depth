@@ -21,4 +21,4 @@ This is the short and long term to-do list of training Network to predect depth
 
 ## Long term goals
 ### Unspervised learning (by predict and compare to the next t+n frame) of depth or optical flow
-### Train an Discrimanator as supervisor
+### Train an Discriminator as supervisor
