@@ -7,7 +7,7 @@ This is the short and long term to-do list of training Network to predect depth
 
 ## About the network
 ### Architecture:
-#### [Drop Out](Drop out/README.md) (to prevent overfitting)
+#### [Drop Out](./Drop out/README.md) (to prevent overfitting)
 #### Residual net (good for deeper net)
 
 ### Format of Depthmap and loss function
