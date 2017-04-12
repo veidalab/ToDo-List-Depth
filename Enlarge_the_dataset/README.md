@@ -2,6 +2,8 @@
 
 The [matlab code](./generateDATA.m) to generate the data from SUN3D
 
+The examples are extracted with interval 20, i.e. for t = t + 20 frames, we extract frame(t), frame(t-5) and frame(t+5). The beginning and the end of each video are dicarded. Gets train: 107417, val 5613
+
 ## first experiment:
 use the first 30000 exaples in /train as the training data, the 5600 examples in /val as test data.
 
