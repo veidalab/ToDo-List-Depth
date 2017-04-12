@@ -1,6 +1,6 @@
 # This is about the Enlargement of the dataset.
 
-The matlab code to generate the data from SUN3D
+The [matlab code](./generateDATA.m) to generate the data from SUN3D
 
 ## first experiment:
 use the first 30000 exaples in /train as the training data, the 5600 examples in /val as test data.
