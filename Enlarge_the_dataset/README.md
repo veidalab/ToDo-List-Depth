@@ -30,3 +30,8 @@ Use `optimizer=keras.optimizers.Adam(lr=0.0001, beta_1=0.9, beta_2=0.999, epsilo
 
 Depress mean of input: `x[i,:,:,0:3] = xx['Data']['image'][0][0][0][0][16:464,:,:] - image_mean`
 `x[i,:,:,3:6] = xx['Data']['image'][0][0][0][1][16:464,:,:] - image_mean` but made a mistake
+
+
+## experiment 3
+Fixed the bugs in exp2
+![curve](./figure_4.png)
