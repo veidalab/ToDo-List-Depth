@@ -3,6 +3,7 @@ This is the short and long term to-do list of training Network to predect depth
 
 ## About the training dataset
 ### [Enlarge the Dataset](./Enlarge_the_dataset/README.md)
+### [Data generation (down sample)](./Data_generation/README.md)
 ### Fill the holes (pixels that the depth is not available)
 
 ## About the network
